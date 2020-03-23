@@ -10,6 +10,7 @@ c) 可以设置不同的重复时间间隔<BR/>
 本人只是对原代码进行些许修改。
 <BR/>
 # 3、操作示意图
+![baidu](http://tiebapic.baidu.com/forum/w%3D580/sign=b2715f6b0830e924cfa49c397c096e66/563c9818367adab4ff9459209cd4b31c8701e437.jpg)  
 
 
 <BR/>
