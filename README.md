@@ -12,10 +12,7 @@ c) 可以设置不同的重复时间间隔<BR/>
 # 3、操作示意图
 ![]
 (https://github.com/kimi04/qy_wx_timed-reminder/raw/master/image/pic1.jpg) 
-(https://github.com/kimi04/qy_wx_timed-reminder/raw/master/image/pic2.jpg) 
-(https://github.com/kimi04/qy_wx_timed-reminder/raw/master/image/pic3.jpg) 
-(https://github.com/kimi04/qy_wx_timed-reminder/raw/master/image/pic4.jpg) 
-(https://github.com/kimi04/qy_wx_timed-reminder/raw/master/image/pic5.jpg) 
+
 <BR/>
 # 4、注意事项
 需安装第三方库requests<BR/>
