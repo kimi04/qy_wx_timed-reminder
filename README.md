@@ -6,7 +6,7 @@ b) 可设置不同时间发送不同消息<BR/>
 c) 可以设置不同的重复时间间隔<BR/>
 <BR/>
 # 2、特别感谢
-特别感谢@ShaShiDiZhuanLan[沙振宇（沙师弟专栏）]提供的原始开发代码<BR/>
+特别感谢 [@ShaShiDiZhuanLan](https://github.com/ShaShiDiZhuanLan)[沙振宇（沙师弟专栏）]提供的原始开发代码<BR/>
 本人只是对原代码进行些许修改。
 <BR/>
 # 3、操作示意图
@@ -18,3 +18,4 @@ c) 可以设置不同的重复时间间隔<BR/>
 需安装第三方库requests<BR/>
 pip install requests
 image/PIC 1.jpg
+
