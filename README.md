@@ -18,5 +18,3 @@ c) 可以设置不同的重复时间间隔<BR/>
 # 4、注意事项
 需安装第三方库requests<BR/>
 pip install requests
-image/PIC 1.jpg
-
